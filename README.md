@@ -13,6 +13,12 @@ Using the [Shopify CLI](https://github.com/Shopify/shopify-cli) run:
 ~/ $ shopify node create -n APP_NAME
 ```
 
+Run for development:
+
+```sh
+$ shopify node serve
+```
+
 Or, fork and clone repo
 
 ## Requirements
